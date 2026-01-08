@@ -1,3 +1,3 @@
 # waleed1
-وليد ابراهيم خليل
+Waleed Ibraheim khaleel
 C2
